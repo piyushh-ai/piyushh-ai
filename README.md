@@ -8,7 +8,7 @@
 
 ### 🚀 Full Stack Developer | 💡 Problem Solver | 🤖 AI Explorer
 
-[Portfolio](https://your-portfolio.com) • [LinkedIn](https://linkedin.com/in/your-profile) • [GitHub](https://github.com/your-username)
+[LinkedIn](www.linkedin.com/in/piyush-sirolia-070174369) • [GitHub](https://github.com/piyushh-ai)
 
 </div>
 
@@ -81,7 +81,7 @@ const piyush = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/piyush-sirolia-070174369)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](your-link)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/KaarigarCode)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/piyushh-ai)
+
 
 </div>
