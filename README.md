@@ -75,28 +75,33 @@ const me = buildDeveloper();
 
 ## 🛠️ Tech Stack
 
-💻 Languages: JavaScript, Python
-🌐 Frontend: React, HTML, CSS
-⚙️ Backend: Node.js, Express
-🗄️ Database: MongoDB
+💻 Languages: JavaScript
+🌐 Frontend: React, Redux Toolkit, HTML, CSS
+⚙️ Backend: Node.js, Express, REST APIs, Authentication (JWT, Cookies)
+🗄️ Database: MongoDB (Mongoose, Query Optimization)
+☁️ Tools & Services: Firebase (FCM), Cloudinary, Nodemailer, Resend
+🤖 AI & Integrations: LangChain, Gemini API, Mistral, Tavily (AI Agent Workflows)
 
 ---
 
 ## 📈 Growth Journey
 
-* 📚 Learning DSA daily
-* 🔥 Building projects consistently
-* 🚀 Exploring AI tools
+* 🧠 Designing real-world systems (AI agents, inventory platforms, chat apps)
+* ⚡ Improving backend performance & scalable architecture thinking
+* 🔄 Learning by building → debugging → optimizing
+* 🚀 Exploring how AI integrates into real production apps
 
 ---
 
 ## 🏆 Achievements
 
-* 💪 Solved X+ DSA problems
-* 🧠 Built multiple full-stack apps
-* 🚀 Active learner & builder
+* 🔥 Built multiple production-level full-stack applications
+* 🤖 Developed AI-powered systems with real-time data & intelligent routing
+* 📱 Deployed apps as web + Android (WebView based)
+* ⚙️ Implemented authentication, notifications & scalable backend systems
 
 ---
+
 
 ## 🌐 Connect With Me
 
