@@ -80,25 +80,8 @@ const piyush = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/piyush-sirolia-070174369)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](your-link)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/KaarigarCode)
 
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com/?user=your-username\&theme=tokyonight)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username\&layout=compact\&theme=tokyonight)
-
-</div>
-
----
-
-✨ *“Code likhne ka kaam nahi… apni kahani likhne ka tareeka hai.”*
