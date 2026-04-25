@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/7a/6e/57/7a6e57c8b2e9b6d3b9e1d1d5f5c2e5f2.gif" width="100%" />
-</div>
 
 <div align="center">
 
@@ -8,7 +5,7 @@
 
 ### 🚀 Full Stack Developer | 💡 Problem Solver | 🤖 AI Explorer
 
-[LinkedIn](www.linkedin.com/in/piyush-sirolia-070174369) • [GitHub](https://github.com/piyushh-ai)
+[LinkedIn](https://www.linkedin.com/in/piyush-sirolia-070174369/) • [GitHub](https://github.com/piyushh-ai)
 
 </div>
 
@@ -17,37 +14,62 @@
 ## 🧠 About Me
 
 ```js
-const piyush = {
-  role: "Full Stack Developer",
-  focus: "Building real-world scalable apps",
-  learning: ["MERN Stack", "DSA", "AI"],
-  mindset: "Consistency > Motivation",
-  goal: "Become job-ready & build impactful projects",
-  funFact: "Bugs fear me... sometimes 🙂"
-};
+function buildDeveloper() {
+  return {
+    name: "Piyush",
+    role: "Full Stack Developer",
+    currentlyLearning: ["MERN Stack", "DSA", "AI"],
+    approach: "Learn → Build → Break → Fix → Repeat",
+    mission: "Turn ideas into real-world products",
+    mindset: () => "Consistency beats motivation every time",
+    status: "In progress..."
+  };
+}
+
+const me = buildDeveloper();
 ```
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🔹 Project 1 – Smart App
+### 🔹 Collectra – Smart Collection Management App
 
-* AI powered features
-* Clean UI & responsive design
-* Built using MERN
+* 📦 Product collection & management system
+* ⚡ Fast and responsive UI (WebView + App experience)
+* 🔐 Secure authentication & data handling
+* ☁️ Cloudinary image uploads
+* 🌍 Real-time updates with backend integration
 
-👉 Live | GitHub
+👉 [Live](https://collectra.online/) | [GitHub](https://github.com/piyushh-ai/Collectra)
 
 ---
 
-### 🔹 Project 2 – Realtime Chat App
+### 🔹 AI Search App – Perplexity-style AI Engine
 
-* Socket.io integration
-* JWT Authentication
-* Secure backend
+* 🤖 Smart AI agent architecture (not just simple API call)
+* 🧠 Mistral decides → search karna hai ya nahi
+* 🌐 Tavily real-time web results fetch karta hai
+* ⚡ Gemini 2.5 Flash final answer generate karta hai with citations
+* 🔗 Shareable chat links (public access without login)
+* 💬 Real-time chat UI with typing indicator & markdown rendering
+* 🔐 JWT authentication + secure httpOnly cookies
+* 🔊 Custom sound hook when AI finishes response 😄
 
-👉 Live | GitHub
+👉 [Live](https://perplexity-piyush.in/) | [GitHub](https://github.com/piyushh-ai/Perplexity-Piyush)
+---
+
+### 🔹 BK Eng – Stock & Order Management System
+
+* 📦 Inventory management with order processing & real-time tracking
+* 📱 Mobile-first premium UI (React Native WebView based Android app)
+* 🔔 Firebase Cloud Messaging (FCM) for background push notifications
+* ⚡ Optimized backend with caching & efficient Mongoose queries
+* 👥 Role-based access (Admin & Sales) with unified settings & dark/light mode
+
+👉 [Live](http://13.205.77.25/) | [GitHub](https://github.com/piyushh-ai/BK-ENG)
+
+
 
 ---
 
@@ -80,7 +102,7 @@ const piyush = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/piyush-sirolia-070174369)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/piyush-sirolia-070174369/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/piyushh-ai)
 
 
