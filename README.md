@@ -3,9 +3,9 @@
 
 # Hey 👋, I'm Piyush
 
-### 🚀 Full Stack Developer | 💡 Problem Solver | 🤖 AI Explorer
+### Full Stack Developer | Problem Solver | AI Explorer
 
-[LinkedIn](https://www.linkedin.com/in/piyush-sirolia-070174369/) • [GitHub](https://github.com/piyushh-ai)
+[LinkedIn](https://www.linkedin.com/in/piyush-sirolia-070174369/) • [GitHub](https://github.com/piyushh-ai) • [Youtube](https://www.youtube.com/@KaarigarCode)
 
 </div>
 
@@ -75,11 +75,16 @@ const me = buildDeveloper();
 
 ## 🛠️ Tech Stack
 
-💻 Languages: JavaScript
+💻 Languages: JavaScript, Python
+
 🌐 Frontend: React, Redux Toolkit, HTML, CSS
+
 ⚙️ Backend: Node.js, Express, REST APIs, Authentication (JWT, Cookies)
+
 🗄️ Database: MongoDB (Mongoose, Query Optimization)
+
 ☁️ Tools & Services: Firebase (FCM), Cloudinary, Nodemailer, Resend
+
 🤖 AI & Integrations: LangChain, Gemini API, Mistral, Tavily (AI Agent Workflows)
 
 ---
@@ -99,6 +104,9 @@ const me = buildDeveloper();
 * 🤖 Developed AI-powered systems with real-time data & intelligent routing
 * 📱 Deployed apps as web + Android (WebView based)
 * ⚙️ Implemented authentication, notifications & scalable backend systems
+
+---
+
 
 ---
 
