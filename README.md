@@ -98,18 +98,6 @@ DevOps       →  Git  GitHub  Vite  Deployment
 
 ---
 
-## `$ cat growth.log`
-
-```
-[2024] → Building real-world AI agent systems
-[2024] → Designing scalable backend architecture
-[2024] → Deploying production apps (web + Android)
-[2025] → Exploring AI-first product development
-[...] → Consistency beats motivation every time
-```
-
----
-
 ## `$ connect --all`
 
 <div align="center">
